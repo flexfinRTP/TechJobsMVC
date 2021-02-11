@@ -6,6 +6,7 @@ using TechJobsMVC.Models;
 
 namespace TechJobsMVC.Data
 {
+    //here goes nothin.
     public class JobData
     {
         static private string DATA_FILE = "Data/job_data.csv";
